@@ -36,7 +36,11 @@ Selection Sort works by finding the minimum element from the unsorted part of th
 
 ## Code:
 ### Bubble sort:
-``` python
+``` c
+# Code developed : Mukesh V 
+# Reg-no : 212222230086
+
+
 #include <stdio.h>
 
 void bubbleSort(int a[], int n) {
@@ -65,7 +69,11 @@ int main() {
 }
 ```
 ### Insertion sort:
-``` python
+``` c
+# Code developed : Mukesh V 
+# Reg-no : 212222230086
+
+
 #include <stdio.h>
 
 void insertionSort(int a[], int n) {
@@ -95,7 +103,11 @@ int main() {
 
 ```
 ### Selection sort:
-``` python
+``` c
+# Code developed : Mukesh V 
+# Reg-no : 212222230086
+
+
 #include <stdio.h>
 
 void selection_sort(int arr[], int n) {
