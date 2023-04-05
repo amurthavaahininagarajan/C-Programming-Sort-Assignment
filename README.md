@@ -70,8 +70,8 @@ int main() {
 ```
 ### Insertion sort:
 ``` c
-# Code developed : Mukesh V 
-# Reg-no : 212222230086
+# Code developed : AMURTHA VAAHINI.KN
+# Reg-no : 212222240008
 
 
 #include <stdio.h>
@@ -104,8 +104,8 @@ int main() {
 ```
 ### Selection sort:
 ``` c
-# Code developed : Mukesh V 
-# Reg-no : 212222230086
+# Code developed : AMURTHA VAAHINI.KN
+# Reg-no : 212222240008
 
 
 #include <stdio.h>
